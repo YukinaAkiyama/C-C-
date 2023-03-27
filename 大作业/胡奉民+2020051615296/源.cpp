@@ -75,8 +75,8 @@ void person::addw()
 	string nm;
 	cin >> nm;
 	fstream f; f.open(nm.c_str(), ios::in);
-	int num; f >> num;	while (num--)
-	{
+	int num; f >> num;
+    while (num--){
 		int nw = get(); p[nw].op = 1;
 		f >> p[nw].tp >> p[nw].nm >> p[nw].rk >> p[nw].ph >> p[nw].i;
 	}

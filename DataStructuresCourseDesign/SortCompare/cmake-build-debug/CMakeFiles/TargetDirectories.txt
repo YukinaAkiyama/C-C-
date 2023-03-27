@@ -1,0 +1,3 @@
+D:/C&C++/DataStructuresCourseDesign/SortCompare/cmake-build-debug/CMakeFiles/SortCompare.dir
+D:/C&C++/DataStructuresCourseDesign/SortCompare/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C&C++/DataStructuresCourseDesign/SortCompare/cmake-build-debug/CMakeFiles/rebuild_cache.dir

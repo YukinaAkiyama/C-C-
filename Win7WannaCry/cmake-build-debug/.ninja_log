@@ -1,0 +1,11 @@
+# ninja log v5
+1	595	6918623791927395	CMakeFiles/Win7WannaCry.dir/main.cpp.obj	a7b8feba311901bb
+599	870	6918623794662398	Win7WannaCry.exe	8560b9fb3ad95ba8
+5	492	6918624343809981	CMakeFiles/Win7WannaCry.dir/main.cpp.obj	a7b8feba311901bb
+493	730	6918624346176260	Win7WannaCry.exe	8560b9fb3ad95ba8
+7	516	6918624418684568	CMakeFiles/Win7WannaCry.dir/main.cpp.obj	a7b8feba311901bb
+516	782	6918624421331162	Win7WannaCry.exe	8560b9fb3ad95ba8
+5	2174	6918644351330753	CMakeFiles/Win7WannaCry.dir/main.cpp.obj	a7b8feba311901bb
+2180	2482	6918644354399450	Win7WannaCry.exe	8560b9fb3ad95ba8
+6	2200	6918644771712666	CMakeFiles/Win7WannaCry.dir/main.cpp.obj	a7b8feba311901bb
+2201	2475	6918644774451361	Win7WannaCry.exe	8560b9fb3ad95ba8

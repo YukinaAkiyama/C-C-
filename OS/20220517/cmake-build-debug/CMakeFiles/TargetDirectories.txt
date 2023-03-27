@@ -1,0 +1,3 @@
+D:/C和C++/OS/20220517/cmake-build-debug/CMakeFiles/20220517.dir
+D:/C和C++/OS/20220517/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C和C++/OS/20220517/cmake-build-debug/CMakeFiles/rebuild_cache.dir

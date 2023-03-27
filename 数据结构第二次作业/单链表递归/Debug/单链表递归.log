@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C和C++\数据结构第二次作业\单链表递归\源.cpp(66,11): warning C4244: “return”: 从“ElemType”转换到“float”，可能丢失数据
+  单链表递归.vcxproj -> D:\C和C++\数据结构第二次作业\单链表递归\Debug\单链表递归.exe

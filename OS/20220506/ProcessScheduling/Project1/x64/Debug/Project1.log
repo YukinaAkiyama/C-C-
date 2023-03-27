@@ -1,0 +1,20 @@
+﻿  源.cpp
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(38,22): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(38,22): message : 此参数用作缓冲区大小
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(38,22): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(38,22): message : 占位符和其参数预计 4 可变参数，但提供的却是 3 参数
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(38,22): message : 缺失的可变参数 4 为格式字符串“%d”所需
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(29,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(83,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(83,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(83,17): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(83,17): message : 此参数用作缓冲区大小
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(119,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(127,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(151,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(171,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(194,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(196,41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(204,45): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(205,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\C和C++\OS\20220506\ProcessScheduling\Project1\源.cpp(226,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据

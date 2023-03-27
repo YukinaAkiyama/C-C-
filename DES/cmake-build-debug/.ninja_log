@@ -1,0 +1,5 @@
+# ninja log v5
+12	82	6910846493908329	CMakeFiles/DES.dir/main.cpp.obj	c2fb5b72e5f0c92b
+7	595	6910759409075490	CMakeFiles/DES.dir/DES.cpp.obj	ec29e426281fbd45
+4	469	6910847639824352	CMakeFiles/DES.dir/test.cpp.obj	54abdc9a82e04999
+470	677	6910847641892483	DES.exe	c72ec3a4cd38adb7
